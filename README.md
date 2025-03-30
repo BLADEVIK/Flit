@@ -1,5 +1,5 @@
 # React + Vite
-## deploy: 
+## deploy: https://flitpostcomment-bladevik.netlify.app/
 ## Структура компонентов:
 - App.jsx - главный компонент приложения, который управляет состоянием и логикой
 - PostList.jsx - компонент для отображения списка постов
