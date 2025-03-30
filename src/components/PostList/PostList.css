@@ -1,0 +1,40 @@
+.post-list {
+    width: 100%;
+}
+
+.post-list h1 {
+    margin-bottom: 20px;
+}
+
+.posts-container {
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+.post-card {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #f9f9f9;
+    transition: all 0.2s ease;
+}
+
+.post-card:hover {
+    background-color: #f0f0f0;
+    transform: translateY(-2px);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.post-card h2 {
+    margin: 0 0 5px 0;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.post-card p {
+    margin: 0;
+    color: #666;
+    line-height: 1.4;
+}

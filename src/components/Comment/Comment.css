@@ -1,0 +1,26 @@
+.comment {
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.comment h4 {
+    margin: 0 0 8px 0;
+    color: #333;
+    font-size: 1.1rem;
+}
+
+.comment-body {
+    margin: 0 0 8px 0;
+    color: #444;
+    line-height: 1.5;
+}
+
+.comment-author {
+    margin: 0;
+    font-size: 0.9em;
+    color: #666;
+}
